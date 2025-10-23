@@ -2,7 +2,7 @@
 - [heart-disease-prediction.ipynb](heart-disease-prediction.ipynb) contains the trained XGBoost model.
 - [Dataset](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset) is the dataset used to train and test the XGBoost model.
 #
-The model predicts if a patient has heart disease based on the following feature:
+The model predicts if a patient has heart disease based on the following features:
 - General_Health	
 - Checkup	
 - Exercise	
