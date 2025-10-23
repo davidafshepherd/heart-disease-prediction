@@ -1,9 +1,23 @@
 # Heart Disease Prediction
 - [heart-disease-prediction.ipynb](heart-disease-prediction.ipynb) contains the trained XGBoost model.
-- [CVD_cleaned.csv](CVD_cleaned.csv) is the dataset used to train and test the XGBoost model.
+- [Dataset](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset) is the dataset used to train and test the XGBoost model.
 #
-![image](https://github.com/user-attachments/assets/afcfe2a3-2b4f-49f4-a758-0b1eae17efd5)
-
-![image](https://github.com/user-attachments/assets/8e51b5eb-dfc1-45e9-bd13-3b0c8b6f32cb)
-
-![image](https://github.com/user-attachments/assets/76e647b8-2c62-4f27-84d6-91662409569f)
+The moodel predicts if a patient has heart disease based on the following feature:
+-General_Health	
+-Checkup	
+-Exercise	
+-Skin_Cancer	
+-Other_Cancer	
+-Depression	
+-Diabetes	
+-Arthritis	
+-Sex	
+-Age_Category	
+-Height_(cm)	
+-Weight_(kg)	
+-BMI	
+-Smoking_History	
+-Alcohol_Consumption	
+-Fruit_Consumption	
+-Green_Vegetables_Consumption	
+-FriedPotato_Consumption
